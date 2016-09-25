@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0E8A091A-4ADA-2A69-7B5C-9CDC1D1323E4}") = "RollingDice", "Assembly-CSharp.csproj", "{8002C977-B0BD-44BE-3A67-9144F46F0630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8002C977-B0BD-44BE-3A67-9144F46F0630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8002C977-B0BD-44BE-3A67-9144F46F0630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8002C977-B0BD-44BE-3A67-9144F46F0630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8002C977-B0BD-44BE-3A67-9144F46F0630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
